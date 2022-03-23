@@ -7,6 +7,7 @@ git branch -M main
 git remote add origin {link del github a usar}
 
 
+
 Comandos para subir archivos a github (por terminal):
 
 git add {archivo}
@@ -14,6 +15,7 @@ git add {archivo}
 git commit -m "message"
 
 git push origin main
+
 
 
 Comandos de branches (por terminal):
