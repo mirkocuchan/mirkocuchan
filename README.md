@@ -7,7 +7,6 @@ git branch -M main
 git remote add origin {link del github a usar}
 
 
-
 Comandos para subir archivos a github (por terminal):
 
 git add {archivo}
@@ -15,7 +14,6 @@ git add {archivo}
 git commit -m "message"
 
 git push origin main
-
 
 
 Comandos de branches (por terminal):
@@ -27,3 +25,8 @@ git checkout {nombre} - Te cambias entre branches locales
 git branch -D {nombre} - Borras una branch local
 
 
+Otros comandos (por terminal):
+
+git pull (traerse los cambios hechos)
+
+git clone {link del github a usar} 
